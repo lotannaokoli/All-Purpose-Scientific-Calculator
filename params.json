@@ -1,6 +1,6 @@
 {
   "name": "All-purpose-scientific-calculator",
   "tagline": "This is an all purpose scientific calculator created using Visual Studio 2012 with three modes: Standard, Quadratic Equations (2 and 3 degrees) and Simultaneous Equations (2 variables).",
-  "body": "All Purpose Scientific Calculator\r\n==============================================\r\n\r\nThis is an all purpose scientific calculator created using Visual Studio 2012 with three modes: Standard, Quadratic Equations (2 and 3 degrees) and Simultaneous Equations (2 variables).\r\n",
+  "body": "This was my first ever personal project created back when I was in the 11th grade (August 2014).",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
