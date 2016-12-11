@@ -1,0 +1,25 @@
+C:\Users\Lilian\AppData\Local\Temporary Projects\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.exe.config
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.exe.config
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.exe
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.pdb
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.xml
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.Resources.resources
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.frmStandard.resources
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.vbproj.GenerateResource.Cache
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.exe
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.xml
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.pdb
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.frmQE.resources
+C:\Users\Lilian\Desktop\Calc\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.frmSE.resources
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.exe.config
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.exe
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.xml
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.pdb
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.exe
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.pdb
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\bin\Debug\OKOLI Lotanna Uche   Calculator Project.xml
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.Resources.resources
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.frmQE.resources
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.frmSE.resources
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI_Lotanna_Uche___Calculator_Project.frmStandard.resources
+I:\Project Stuff\Calculator\Calculator (Visual Studio 2012)\OKOLI Lotanna Uche   Calculator Project\OKOLI Lotanna Uche   Calculator Project\obj\Debug\OKOLI Lotanna Uche   Calculator Project.vbproj.GenerateResource.Cache
